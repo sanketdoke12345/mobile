@@ -1,0 +1,34 @@
+.main{
+    text-align: center;
+    height: 750px;
+    width: 100%;
+    border: 1px solid black;
+    background-color: grey ;
+    /* margin-left: 400px; */
+    /* margin-top: 10px; */
+    /* margin-bottom: 10px; */
+}
+.form{
+    height: 30px;
+    width: 300px;
+    border: 1px solid black;
+    margin: 10px;
+} 
+.button{
+    height: 40px;
+    width: 100px;
+    border: 1px solid black;
+    background-color: blue;
+    margin: 5px;
+    padding: 5px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+    
+}
+.name{
+    text-align: center;
+    margin-top: 10px;
+    font-weight: bolder;
+    font-size: large;
+
+}
